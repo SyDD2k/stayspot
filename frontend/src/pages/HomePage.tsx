@@ -107,7 +107,7 @@ export const HomePage: React.FC = () => {
           
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-white/15 text-blue-200 text-xs font-semibold mb-6">
             <Sparkles className="w-3.5 h-3.5 text-amber-300" />
-            <span>Discover 100+ Verified Student PGs & Hostels in Mysore</span>
+            <span>Discover Verified Student Accommodations, PGs & Hostels</span>
           </div>
 
           <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight text-white mb-4 leading-tight">

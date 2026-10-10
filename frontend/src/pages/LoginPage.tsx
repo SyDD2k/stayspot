@@ -49,7 +49,7 @@ export const LoginPage: React.FC = () => {
             <Building2 className="w-7 h-7" />
           </div>
           <h2 className="text-2xl font-extrabold">Sign In to StaySpot</h2>
-          <p className="text-xs text-blue-100 mt-1">Access verified student accommodations across Mysore</p>
+          <p className="text-xs text-blue-100 mt-1">Access verified student accommodations</p>
         </div>
 
         {/* Card Body */}

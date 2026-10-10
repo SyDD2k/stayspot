@@ -40,7 +40,7 @@ export const RegisterPage: React.FC = () => {
             <Building2 className="w-7 h-7" />
           </div>
           <h2 className="text-2xl font-extrabold">Create StaySpot Account</h2>
-          <p className="text-xs text-blue-100 mt-1">Join the verified accommodation network in Mysore</p>
+          <p className="text-xs text-blue-100 mt-1">Join the verified student accommodation network</p>
         </div>
 
         {/* Card Body */}

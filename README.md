@@ -1,5 +1,4 @@
-# StaySpot 🏠🎓
-### Karnataka's Premier Student Accommodation & Verified PG Discovery Platform
+# StaySpot: Student Accommodation Finder 🏠🎓
 
 [![React](https://img.shields.io/badge/React-19.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -12,7 +11,7 @@
 
 ## 🌟 Overview
 
-**StaySpot** connects university students directly with verified PG and hostel owners across major college hubs in Karnataka (Mysore, Bogadi, VVCE, Saraswathipuram). It eliminates middleman broker fees, guarantees verified municipality trade certificates, and enables instant room reservations using standard Indian NPCI **UPI Token Payments**.
+**StaySpot** connects university students directly with verified PG and hostel owners. It eliminates middleman broker fees, guarantees verified municipality trade certificates, and enables instant room reservations using standard Indian NPCI **UPI Token Payments**.
 
 ---
 

@@ -17,7 +17,7 @@ export const Footer: React.FC = () => {
               <span className="text-xl font-bold text-white">StaySpot</span>
             </div>
             <p className="text-xs text-slate-400 leading-relaxed">
-              Karnataka’s premier student accommodation and verified paying guest discovery platform. Direct owner connections, verified listings, and secure UPI token reservations.
+              Premier student accommodation and verified paying guest discovery platform. Direct owner connections, verified listings, and secure UPI token reservations.
             </p>
             <div className="flex items-center gap-2 text-xs text-emerald-400 bg-emerald-950/50 border border-emerald-800/60 px-3 py-1.5 rounded-lg w-fit">
               <ShieldCheck className="w-4 h-4 shrink-0" />

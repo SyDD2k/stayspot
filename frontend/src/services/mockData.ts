@@ -161,7 +161,7 @@ export const INITIAL_PROPERTIES: Property[] = [
       'https://images.unsplash.com/photo-1555854877-bab0e564b8d5?auto=format&fit=crop&w=1000&q=80'
     ],
     owner_id: 'govt_admin',
-    owner_name: 'Welfare Dept Karnataka',
+    owner_name: 'Student Welfare Department',
     lat: 12.3021,
     lng: 76.6192,
     is_verified: true,
@@ -234,7 +234,7 @@ export const INITIAL_FAQS: FAQItem[] = [
   {
     id: 2,
     question: 'Are government hostels eligible for direct online booking?',
-    answer: 'Government hostels listed on StaySpot allow you to initiate inquiries and reserve preliminary slots; however, final seat allocation requires in-person submission of your college admission and verification documents according to Karnataka Welfare Department guidelines.',
+    answer: 'Government hostels listed on StaySpot allow you to initiate inquiries and reserve preliminary slots; however, final seat allocation requires in-person submission of your college admission and verification documents according to Student Welfare Department guidelines.',
     category: 'Eligibility',
     likes: 21,
     dislikes: 0,
