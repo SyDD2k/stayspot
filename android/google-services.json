@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "895472709439",
+    "project_id": "stays-2d46b",
+    "storage_bucket": "stays-2d46b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895472709439:android:6eed85cb649edf3f156d8a",
+        "android_client_info": {
+          "package_name": "com.stayspot.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895472709439-6iitvi6iivhh539h5bg7lojq0ct7226j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stayspot.app",
+            "certificate_hash": "d727b920e4960ec12bc821c3385e6a8345a2db30"
+          }
+        },
+        {
+          "client_id": "895472709439-9lpg90o6q6265sbm23ajj0s6bato6und.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwlG_kdqkG55yJAof_fa3JY8pmjSgw78Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895472709439-9lpg90o6q6265sbm23ajj0s6bato6und.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
